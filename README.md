@@ -6,3 +6,9 @@ Le pseudo du joueur est à rentrer dans l'interface graphique. Le pseudo restera
 Différents niveaux sont proposés au lancement du jeu. Easy, Medium ou Hard. La différence entre les niveaux est la taille de la grille.
 
 Le score s'actualise au fil de la partie. Puis à la fin de la partie le score s'affiche avec le pseudo du joueur.
+
+## Prérequis
+Avoir Pygame
+
+## Lancement
+python main.py
